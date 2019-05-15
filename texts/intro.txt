@@ -1,0 +1,23 @@
+
+
+
+Welcome to Graph.py
+
+Version 0.2.7 Beta
+
+✔  Graph.py is a program designed to visualize 3d solids of revolution for the AP test
+
+✔  Intuitive design makes it easy to operate
+
+✔  To start use -begin
+
+✔  To appreciate the hard work put into this use -history
+
+✔  To exit use -quit
+
+
+
+
+   
+
+

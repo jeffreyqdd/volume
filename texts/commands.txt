@@ -1,0 +1,15 @@
+--------------- Commands ---------------
+
+Welcome user. Here are the current available commands.
+
+-disk         ➜   executes the disk method  	 (May 11 2019, Stable)
+-washer       ➜   executes the washer method     (May 11 2019, Stable)
+
+
+---------------   Misc   ---------------
+
+-begin      ➜   Reloads this command screen      (May 8 2019, Stable)
+-history    ➜   Shows development progress       (May 8 2019, Stable)
+-quit       ➜   Exits program                    (May 4 2019, Stable)
+
+-----------------------------------------
